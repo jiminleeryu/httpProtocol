@@ -1,0 +1,8 @@
+Request Line:
+- Method: GET
+- Target: /coffee
+- Version: 1.1
+Request Line:
+- Method: GET
+- Target: /test1
+- Version: 1.1
